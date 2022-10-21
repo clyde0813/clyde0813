@@ -31,6 +31,9 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+<br>
+
+허례허식을 싫어한다는 핑계로 readme를 안쓰는 습관을 고치는중
 </div>
   
 
